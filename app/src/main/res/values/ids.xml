@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="age_input" type="id">age input</item>
+    <item name="imageView" type="id">image view</item>
+    <item name="clear_button" type="id">clear button</item>
+    <item name="imageView2" type="id">image view 2</item>
+    <item name="relativeLayout" type="id">relative layout</item>
+    <item name="compare_button" type="id">compare button</item>
+    <item name="imageView3" type="id">image view 3</item>
+    <item name="textView" type="id">text view</item>
+    <item name="result_text" type="id">result view</item>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment-A1</string>
+    <string name="error_empty_age">empty age</string>
+    <string name="error_invalid_age_format">invalid age format</string>
+    <string name="error_age_out_of_range">age out of range</string>
+    <string name="result_message">result message</string>
+</resources>
