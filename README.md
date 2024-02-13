@@ -43,6 +43,7 @@ No external dependencies are required for this project.
 
 ## Wireframes
 ![History App Image](https://github.com/KagisoPaul/Assignment/assets/159829614/54b55bc1-cead-4949-87a5-76404b9aacb8)
+
 YouTube video: https://youtu.be/WL6PYjhHAUM
 
 ## Design Considerations 
