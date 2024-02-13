@@ -6,7 +6,7 @@ The History App represents a dynamic endeavour to fuse modern technology with th
 
  
 
-##Purpose##
+##Purpose
 
 At its core, the History App is driven by a singular purpose: to inspire a love for history and foster a deeper understanding of the past among users of all ages. By leveraging the power of technology, the app transcends traditional educational boundaries, offering a personalized and interactive learning experience that captivates learners and sparks their curiosity. Through engaging age comparisons with historical figures, users are encouraged to explore the stories, achievements, and challenges of individuals from diverse backgrounds and time periods. The app serves as a gateway to the past, inviting users to embark on a journey of discovery and enlightenment that enriches their understanding of the world and their place within it. 
 
