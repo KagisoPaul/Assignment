@@ -14,7 +14,7 @@ Error Handling: The app handles invalid age inputs and age out-of-range errors, 
 Clear Functionality: Includes a clear button to reset the app and start over. 
 
 ## Setup Instructions 
-Clone or Download: Clone or download the project from the [History App Repository] (https://github.com/KagisoPaul/History-App). 
+Clone or Download: Clone or download the project from the [History App Repository] ([https://github.com/KagisoPaul/History-App)](https://github.com/KagisoPaul/Assignment). 
 
 Import into Android Studio: Open Android Studio and navigate to the location where the project files were downloaded and select the root folder of the project to open it in Android Studio. 
 
