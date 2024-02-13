@@ -1,4 +1,4 @@
-# History App Documentation
+# History Application
 
 ## Introduction
 
